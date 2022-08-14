@@ -1,0 +1,21 @@
+In this project we will learn how to create a twitter bot. This twitter bot will do bunch of interesting things
+like
+1. Following back people
+2. Retweeting something
+3. Liking tweets based on some keyword
+
+This section requires us to work with twitter API. Some websites give us data using api, and some don't for them we use
+scraping to get data. However there are also permissive APIs, twitter gives us the data but we require permission
+
+Twitter API Keys
+
+API KEY
+API SECRET KEY
+BEARER TOKEN
+ACCESS TOKEN
+ACCESS TOKEN SECRET
+
+These keys can be regenerated. Please check config file for latest keys
+
+After requesting access to twitter api and creating an app and getting the keys, we will use tweepy python library
+to interact with twitter api
